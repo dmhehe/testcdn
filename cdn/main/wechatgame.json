@@ -1,0 +1,13 @@
+{
+    "bundleVers": {
+        "core": "a2717",
+        "daobiao": "364b5",
+        "game": "88e27",
+        "internal": "5e69a",
+        "main": "367db",
+        "res": "bb3ca",
+        "startgame": "872a0"
+    },
+    "version": "240913105450",
+    "cdn_url": "https://raw.githubusercontent.com/yangshuang-developer/Project_minicard/main/project/cdn/wechat/240913105450/"
+}

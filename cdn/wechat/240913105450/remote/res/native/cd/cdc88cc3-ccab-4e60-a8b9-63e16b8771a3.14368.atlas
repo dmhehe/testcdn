@@ -1,0 +1,153 @@
+
+npc_0.png
+size: 645,645
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 500, 255
+  size: 113, 105
+  orig: 114, 105
+  offset: 1, 0
+  index: -1
+10
+  rotate: false
+  xy: 575, 474
+  size: 60, 169
+  orig: 61, 169
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 575, 77
+  size: 128, 63
+  orig: 128, 63
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 500, 207
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 366, 474
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+13-1
+  rotate: false
+  xy: 2, 8
+  size: 199, 25
+  orig: 199, 25
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 355
+  size: 362, 288
+  orig: 362, 288
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 502, 399
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 366, 522
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 2, 35
+  size: 318, 302
+  orig: 318, 302
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 450, 51
+  size: 123, 142
+  orig: 123, 142
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 306, 40
+  size: 142, 153
+  orig: 142, 153
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 203, 4
+  size: 29, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 453, 3
+  size: 46, 187
+  orig: 47, 187
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 441, 542
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 454, 480
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 588, 213
+  size: 34, 40
+  orig: 35, 45
+  offset: 1, 0
+  index: -1
+7
+  rotate: true
+  xy: 366, 362
+  size: 110, 134
+  orig: 110, 134
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 400, 2
+  size: 36, 51
+  orig: 37, 52
+  offset: 1, 1
+  index: -1
+9
+  rotate: true
+  xy: 306, 195
+  size: 158, 192
+  orig: 159, 192
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 306, 2
+  size: 92, 36
+  orig: 97, 41
+  offset: 3, 3
+  index: -1

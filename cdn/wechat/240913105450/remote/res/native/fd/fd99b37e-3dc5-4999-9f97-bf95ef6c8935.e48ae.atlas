@@ -1,0 +1,125 @@
+
+npc_1_1.png
+size: 700,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 315, 42
+  size: 142, 50
+  orig: 142, 50
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 466, 208
+  size: 94, 126
+  orig: 94, 126
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 369, 206
+  size: 95, 128
+  orig: 95, 128
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2, 32
+  size: 152, 84
+  orig: 153, 84
+  offset: 1, 0
+  index: -1
+13
+  rotate: true
+  xy: 88, 32
+  size: 152, 84
+  orig: 153, 84
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 174, 34
+  size: 139, 150
+  orig: 139, 150
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 367, 46
+  size: 138, 131
+  orig: 138, 131
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 575, 20
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 577, 100
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 500, 86
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 186
+  size: 365, 160
+  orig: 366, 160
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 372, 336
+  size: 362, 288
+  orig: 362, 288
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 562, 261
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 562, 186
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 348
+  size: 368, 350
+  orig: 382, 350
+  offset: 14, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 500, 9
+  size: 75, 73
+  orig: 312, 136
+  offset: 120, 25
+  index: -1
+yingzi
+  rotate: true
+  xy: 662, 606
+  size: 92, 36
+  orig: 97, 41
+  offset: 3, 3
+  index: -1
