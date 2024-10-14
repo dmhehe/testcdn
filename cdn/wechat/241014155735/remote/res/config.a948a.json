@@ -372,6 +372,11 @@
             "cc.Prefab",
             1
         ],
+        "636237e6-4675-49d6-883f-694e19863e4f": [
+            "prefab/TipsItem",
+            "cc.Prefab",
+            1
+        ],
         "464aa905-7ff9-4afc-8bf6-2253fca00c23": [
             "ui/UIDiscardCard",
             "cc.Prefab",
@@ -1490,11 +1495,6 @@
         "ae9832a1-60ac-48d7-9653-da40ca1ddbbf": [
             "sound/effect/test/zhuangji",
             "cc.AudioClip",
-            1
-        ],
-        "636237e6-4675-49d6-883f-694e19863e4f": [
-            "prefab/TipsItem",
-            "cc.Prefab",
             1
         ]
     },
