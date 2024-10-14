@@ -1,13 +1,13 @@
 {
     "bundleVers": {
-        "core": "46739",
-        "daobiao": "364b5",
-        "game": "88e27",
-        "internal": "5e69a",
-        "main": "70990",
-        "res": "c4129",
-        "startgame": "56ff3"
+        "core": "958ca",
+        "daobiao": "9f4ce",
+        "game": "61bc1",
+        "internal": "0765e",
+        "main": "fe3cc",
+        "res": "f834f",
+        "startgame": "c3559"
     },
-    "version": "240915154308",
-    "cdn_url": "https://raw.githubusercontent.com/dmhehe/testcdn/main/cdn/wechat/240915154308/"
+    "version": "241014144705",
+    "cdn_url": "https://raw.githubusercontent.com/dmhehe/testcdn/main/cdn/wechat/241014144705/"
 }

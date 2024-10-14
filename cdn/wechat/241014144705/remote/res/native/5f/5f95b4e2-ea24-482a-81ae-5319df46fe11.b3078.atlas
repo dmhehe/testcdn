@@ -1,0 +1,69 @@
+
+fanpai.png
+size: 783,783
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0002
+  rotate: false
+  xy: 531, 438
+  size: 154, 123
+  orig: 155, 155
+  offset: 1, 16
+  index: -1
+001
+  rotate: false
+  xy: 2, 23
+  size: 257, 372
+  orig: 268, 384
+  offset: 6, 3
+  index: -1
+002
+  rotate: false
+  xy: 272, 409
+  size: 257, 372
+  orig: 268, 384
+  offset: 6, 3
+  index: -1
+003
+  rotate: false
+  xy: 261, 23
+  size: 257, 372
+  orig: 268, 384
+  offset: 6, 3
+  index: -1
+004
+  rotate: false
+  xy: 520, 35
+  size: 257, 372
+  orig: 268, 384
+  offset: 6, 3
+  index: -1
+1
+  rotate: true
+  xy: 687, 459
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 531, 563
+  size: 250, 218
+  orig: 250, 218
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 397
+  size: 268, 384
+  orig: 268, 384
+  offset: 0, 0
+  index: -1
+suzi
+  rotate: true
+  xy: 687, 421
+  size: 36, 74
+  orig: 100, 100
+  offset: 34, 14
+  index: -1
